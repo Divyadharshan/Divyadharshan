@@ -2,7 +2,8 @@
 <h3 align="center">An Engineering Undergrad at Sri Venkateswara College of Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyadharshan&label=Profile%20views&color=0e75b6&style=flat" alt="divyadharshan" /> </p>
-![GitHub-Mark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRRd0xhuTxdJ-s3x6IY4FMC5wkzijKRbNvA&usqp=CAU)
+![GitHub-Mark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydTPAnBjma_o5i65w08CkQLiKwGHRIPqj0Q&usqp=CAU)
+<br>
 - 👨‍💻 All of my works are available at : [https://github.com/Divyadharshan](https://github.com/Divyadharshan)
 
 - 📫 How to reach me : **divyadharshan1224@gmail.com**
