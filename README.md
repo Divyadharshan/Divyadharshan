@@ -2,7 +2,7 @@
 <h3 align="center">An Engineering Undergrad at Sri Venkateswara College of Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyadharshan&label=Profile%20views&color=0e75b6&style=flat" alt="divyadharshan" /> </p>
-![GitHub-Mark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydTPAnBjma_o5i65w08CkQLiKwGHRIPqj0Q&usqp=CAU)
+![GitHub-Mark](https://pilbox.themuse.com/image.jpg?filter=antialias&h=385&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=700)
 <br>
 - 👨‍💻 All of my works are available at : [https://github.com/Divyadharshan](https://github.com/Divyadharshan)
 
