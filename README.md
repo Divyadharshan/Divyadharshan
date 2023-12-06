@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **divyadharshan1224@gmail.com**
 
-- ⚡ Fun fact **I am emotionally weak. Don't get attched with me 🙂**
+- ⚡ Fun fact **I am emotionally weak. Don't get attached with me 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
