@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Dharshan S</h1>
 <h3 align="center">An Engineering Undergrad at Sri Venkateswara College of Engineering</h3>
 
+<img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width=700 height=400>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyadharshan&label=Profile%20views&color=0e75b6&style=flat" alt="divyadharshan" /> </p>
 
 - 👨‍💻 All of my works are available at : [https://github.com/Divyadharshan](https://github.com/Divyadharshan)
