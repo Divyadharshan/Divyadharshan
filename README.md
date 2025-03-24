@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm Divyadharshan S</b></h1>
 <h3 align="center">An Engineering Undergrad at Sri Venkateswara College of Engineering</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyadharshan&label=Profile%20views&color=0e75b6&style=flat" alt="divyadharshan" /> </p>
+
+<br>
 
 - **🔭 Working on LLMs, ML, Full Stack Development**
 - **👯 I’m looking to collaborate on Full Stack Projects and DSA Challenges**
