@@ -1,17 +1,8 @@
 <h1 align="center"><b>Hi 👋, I'm Divyadharshan S</b></h1>
 <h3 align="center">An Engineering Undergrad at Sri Venkateswara College of Engineering</h3>
-
 <br>
 
-- **🔭 Working on LLMs, ML, Full Stack Development**
-- **👯 I’m looking to collaborate on Full Stack Projects and DSA Challenges**
-- **🤝 I’m looking for help with ML models, LLMs and System Design**
-- **🌱 I’m currently learning solution optimization & exploring LLMs**
-- **⚡ Fun fact :  A new problem solved = A great day!**
-
-<br>
-
-## 🌐 Socials & Profiles:
+## 🌐 Socials & Profiles
 <a href="https://linkedin.com/in/divyadharshan-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyadharshan-s" height="30" width="40" /></a>
 <a href="https://fb.com/divya-dharshan-s-61554909476772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divya-dharshan-s-61554909476772" height="30" width="40" /></a>
 <a href="https://instagram.com/divyadharshan_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyadharshan_s" height="30" width="40" /></a>
@@ -20,10 +11,9 @@
 <a href="https://www.leetcode.com/divyadharshan_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyadharshan_s" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@divyadharshan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@divyadharshan12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/divdharshan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divdharshan18" height="30" width="40" /></a>
+<br><br>
 
-<br>
-
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -33,9 +23,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D0B1?style=flat&logo=bulma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -59,19 +51,10 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-<br>
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000.svg?style=flat&logo=apachekafka&logoColor=white)
+<br><br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Divyadharshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Divyadharshan&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadharshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Divyadharshan&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
-<br>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Divyadharshan&limit=5&theme=dark)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Divyadharshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br><br>
+![](https://nirzak-streak-stats.vercel.app/?user=Divyadharshan&theme=github_dark&hide_border=false)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadharshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
